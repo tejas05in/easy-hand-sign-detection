@@ -1,0 +1,2 @@
+This model was developed using teachable machine learning
+https://teachablemachine.withgoogle.com/
